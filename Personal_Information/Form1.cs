@@ -79,9 +79,5 @@ namespace Personal_Information
 
         }
 
-        private void firstNameTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
